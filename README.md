@@ -6,6 +6,9 @@ Documentación correspondiente a prueba técnica con base a consumo de API, desp
 
 El proposito de este proyecto tiene como objetivo el mostrar distintas funcionalidades relacionadas con el despliegue de datos. En especifico con enfasis en Listar, Filtrar y Ordenar datos. 
 
+## Link de applicacion
+https://prueba-tecnica-jmgr.netlify.app/home
+
 ## Instrucciones generales
   1. Acción de filtrado accesible mediante el ingreso de caracteres de número correspondiente a id o letras del nombre del elemento o elementos que se buscan.
   2. Visualización de detalle de elemento mediante el click de la línea del elemento deseado dentro de la tabla.
