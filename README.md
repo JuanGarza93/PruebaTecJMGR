@@ -8,6 +8,7 @@ El proposito de este proyecto tiene como objetivo el mostrar distintas funcional
 
 ## Link de applicacion
 https://prueba-tecnica-jmgr.netlify.app/home
+(Si aparece un mensaje de 404, dar click en back to our site lo soluciona)
 
 ## Instrucciones generales
   1. Acción de filtrado accesible mediante el ingreso de caracteres de número correspondiente a id o letras del nombre del elemento o elementos que se buscan.
